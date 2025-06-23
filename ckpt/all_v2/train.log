@@ -1,0 +1,403 @@
+2025-06-14 19:21:18	[  1]  Train data =  34900  Train Acc = 0.2790  Loss = 2.2281  Time = 23.84
+2025-06-14 19:21:23	[  1]  Valid data =  29680  Valid Acc = 0.3084
+2025-06-14 19:21:47	[  2]  Train data =  34900  Train Acc = 0.3575  Loss = 2.1621  Time = 23.93
+2025-06-14 19:21:52	[  2]  Valid data =  29680  Valid Acc = 0.3580
+2025-06-14 19:22:16	[  3]  Train data =  34900  Train Acc = 0.3948  Loss = 2.1166  Time = 24.12
+2025-06-14 19:22:20	[  3]  Valid data =  29680  Valid Acc = 0.3718
+2025-06-14 19:22:43	[  4]  Train data =  34900  Train Acc = 0.4274  Loss = 2.0771  Time = 22.57
+2025-06-14 19:22:48	[  4]  Valid data =  29680  Valid Acc = 0.3826
+2025-06-14 19:23:12	[  5]  Train data =  34900  Train Acc = 0.4385  Loss = 2.0542  Time = 23.87
+2025-06-14 19:23:17	[  5]  Valid data =  29680  Valid Acc = 0.3688
+2025-06-14 19:23:37	[  6]  Train data =  34900  Train Acc = 0.4586  Loss = 2.0296  Time = 19.35
+2025-06-14 19:23:41	[  6]  Valid data =  29680  Valid Acc = 0.4015
+2025-06-14 19:23:58	[  7]  Train data =  34900  Train Acc = 0.4718  Loss = 2.0145  Time = 17.07
+2025-06-14 19:24:02	[  7]  Valid data =  29680  Valid Acc = 0.4429
+2025-06-14 19:24:26	[  8]  Train data =  34900  Train Acc = 0.4821  Loss = 1.9983  Time = 23.59
+2025-06-14 19:24:31	[  8]  Valid data =  29680  Valid Acc = 0.4499
+2025-06-14 19:24:48	[  9]  Train data =  34900  Train Acc = 0.4841  Loss = 1.9938  Time = 16.86
+2025-06-14 19:24:53	[  9]  Valid data =  29680  Valid Acc = 0.4263
+2025-06-14 19:25:17	[ 10]  Train data =  34900  Train Acc = 0.5083  Loss = 1.9669  Time = 23.92
+2025-06-14 19:25:22	[ 10]  Valid data =  29680  Valid Acc = 0.4241
+2025-06-14 19:25:40	[ 11]  Train data =  34900  Train Acc = 0.5173  Loss = 1.9558  Time = 18.89
+2025-06-14 19:25:45	[ 11]  Valid data =  29680  Valid Acc = 0.4397
+2025-06-14 19:26:09	[ 12]  Train data =  34900  Train Acc = 0.5301  Loss = 1.9432  Time = 23.78
+2025-06-14 19:26:14	[ 12]  Valid data =  29680  Valid Acc = 0.4372
+2025-06-14 19:26:38	[ 13]  Train data =  34900  Train Acc = 0.5295  Loss = 1.9395  Time = 23.86
+2025-06-14 19:26:43	[ 13]  Valid data =  29680  Valid Acc = 0.4365
+2025-06-14 19:27:07	[ 14]  Train data =  34900  Train Acc = 0.5429  Loss = 1.9239  Time = 23.68
+2025-06-14 19:27:11	[ 14]  Valid data =  29680  Valid Acc = 0.4455
+2025-06-14 19:27:27	[ 15]  Train data =  34900  Train Acc = 0.5385  Loss = 1.9252  Time = 16.79
+2025-06-14 19:27:32	[ 15]  Valid data =  29680  Valid Acc = 0.4393
+2025-06-14 19:27:56	[ 16]  Train data =  34900  Train Acc = 0.5601  Loss = 1.9047  Time = 23.64
+2025-06-14 19:28:01	[ 16]  Valid data =  29680  Valid Acc = 0.4649
+2025-06-14 19:28:24	[ 17]  Train data =  34900  Train Acc = 0.5692  Loss = 1.8942  Time = 23.63
+2025-06-14 19:28:29	[ 17]  Valid data =  29680  Valid Acc = 0.4287
+2025-06-14 19:28:51	[ 18]  Train data =  34900  Train Acc = 0.5729  Loss = 1.8900  Time = 22.48
+2025-06-14 19:28:57	[ 18]  Valid data =  29680  Valid Acc = 0.4884
+2025-06-14 19:29:20	[ 19]  Train data =  34900  Train Acc = 0.5774  Loss = 1.8844  Time = 23.04
+2025-06-14 19:29:25	[ 19]  Valid data =  29680  Valid Acc = 0.4559
+2025-06-14 19:29:46	[ 20]  Train data =  34900  Train Acc = 0.5897  Loss = 1.8616  Time = 21.61
+2025-06-14 19:29:52	[ 20]  Valid data =  29680  Valid Acc = 0.4659
+2025-06-14 19:30:15	[ 21]  Train data =  34900  Train Acc = 0.5967  Loss = 1.8593  Time = 23.00
+2025-06-14 19:30:20	[ 21]  Valid data =  29680  Valid Acc = 0.4388
+2025-06-14 19:30:41	[ 22]  Train data =  34900  Train Acc = 0.5954  Loss = 1.8613  Time = 20.69
+2025-06-14 19:30:46	[ 22]  Valid data =  29680  Valid Acc = 0.4593
+2025-06-14 19:31:09	[ 23]  Train data =  34900  Train Acc = 0.6049  Loss = 1.8474  Time = 22.89
+2025-06-14 19:31:14	[ 23]  Valid data =  29680  Valid Acc = 0.4406
+2025-06-14 19:31:34	[ 24]  Train data =  34900  Train Acc = 0.6135  Loss = 1.8357  Time = 20.52
+2025-06-14 19:31:39	[ 24]  Valid data =  29680  Valid Acc = 0.4327
+2025-06-14 19:32:00	[ 25]  Train data =  34900  Train Acc = 0.6138  Loss = 1.8328  Time = 20.92
+2025-06-14 19:32:05	[ 25]  Valid data =  29680  Valid Acc = 0.4855
+2025-06-14 19:32:28	[ 26]  Train data =  34900  Train Acc = 0.6115  Loss = 1.8311  Time = 23.28
+2025-06-14 19:32:33	[ 26]  Valid data =  29680  Valid Acc = 0.4267
+2025-06-14 19:32:56	[ 27]  Train data =  34900  Train Acc = 0.6285  Loss = 1.8114  Time = 23.03
+2025-06-14 19:33:00	[ 27]  Valid data =  29680  Valid Acc = 0.4236
+2025-06-14 19:33:22	[ 28]  Train data =  34900  Train Acc = 0.6395  Loss = 1.7998  Time = 21.61
+2025-06-14 19:33:27	[ 28]  Valid data =  29680  Valid Acc = 0.4532
+2025-06-14 19:33:49	[ 29]  Train data =  34900  Train Acc = 0.6351  Loss = 1.8027  Time = 21.73
+2025-06-14 19:33:55	[ 29]  Valid data =  29680  Valid Acc = 0.4626
+2025-06-14 19:34:16	[ 30]  Train data =  34900  Train Acc = 0.6392  Loss = 1.7969  Time = 21.45
+2025-06-14 19:34:22	[ 30]  Valid data =  29680  Valid Acc = 0.4837
+2025-06-14 19:34:40	[ 31]  Train data =  34900  Train Acc = 0.6575  Loss = 1.7739  Time = 18.55
+2025-06-14 19:34:46	[ 31]  Valid data =  29680  Valid Acc = 0.4648
+2025-06-14 19:35:09	[ 32]  Train data =  34900  Train Acc = 0.6534  Loss = 1.7757  Time = 23.14
+2025-06-14 19:35:14	[ 32]  Valid data =  29680  Valid Acc = 0.4767
+2025-06-14 19:35:37	[ 33]  Train data =  34900  Train Acc = 0.6623  Loss = 1.7670  Time = 22.92
+2025-06-14 19:35:42	[ 33]  Valid data =  29680  Valid Acc = 0.4655
+2025-06-14 19:36:04	[ 34]  Train data =  34900  Train Acc = 0.6634  Loss = 1.7654  Time = 22.17
+2025-06-14 19:36:09	[ 34]  Valid data =  29680  Valid Acc = 0.4545
+2025-06-14 19:36:33	[ 35]  Train data =  34900  Train Acc = 0.6690  Loss = 1.7554  Time = 23.27
+2025-06-14 19:36:38	[ 35]  Valid data =  29680  Valid Acc = 0.4607
+2025-06-14 19:36:59	[ 36]  Train data =  34900  Train Acc = 0.6694  Loss = 1.7537  Time = 21.17
+2025-06-14 19:37:04	[ 36]  Valid data =  29680  Valid Acc = 0.3901
+2025-06-14 19:37:26	[ 37]  Train data =  34900  Train Acc = 0.6680  Loss = 1.7512  Time = 21.84
+2025-06-14 19:37:31	[ 37]  Valid data =  29680  Valid Acc = 0.4766
+2025-06-14 19:37:50	[ 38]  Train data =  34900  Train Acc = 0.6741  Loss = 1.7452  Time = 18.62
+2025-06-14 19:37:54	[ 38]  Valid data =  29680  Valid Acc = 0.4654
+2025-06-14 19:38:16	[ 39]  Train data =  34900  Train Acc = 0.6750  Loss = 1.7432  Time = 21.83
+2025-06-14 19:38:21	[ 39]  Valid data =  29680  Valid Acc = 0.4830
+2025-06-14 19:38:43	[ 40]  Train data =  34900  Train Acc = 0.6812  Loss = 1.7374  Time = 21.58
+2025-06-14 19:38:48	[ 40]  Valid data =  29680  Valid Acc = 0.4327
+2025-06-14 19:39:11	[ 41]  Train data =  34900  Train Acc = 0.6968  Loss = 1.7144  Time = 22.80
+2025-06-14 19:39:16	[ 41]  Valid data =  29680  Valid Acc = 0.4923
+2025-06-14 19:39:40	[ 42]  Train data =  34900  Train Acc = 0.6991  Loss = 1.7071  Time = 23.53
+2025-06-14 19:39:45	[ 42]  Valid data =  29680  Valid Acc = 0.4348
+2025-06-14 19:40:08	[ 43]  Train data =  34900  Train Acc = 0.6893  Loss = 1.7198  Time = 23.02
+2025-06-14 19:40:12	[ 43]  Valid data =  29680  Valid Acc = 0.4583
+2025-06-14 19:40:32	[ 44]  Train data =  34900  Train Acc = 0.6825  Loss = 1.7221  Time = 19.41
+2025-06-14 19:40:37	[ 44]  Valid data =  29680  Valid Acc = 0.4468
+2025-06-14 19:40:58	[ 45]  Train data =  34900  Train Acc = 0.6961  Loss = 1.7054  Time = 20.90
+2025-06-14 19:41:04	[ 45]  Valid data =  29680  Valid Acc = 0.4596
+2025-06-14 19:41:27	[ 46]  Train data =  34900  Train Acc = 0.6948  Loss = 1.7048  Time = 22.51
+2025-06-14 19:41:32	[ 46]  Valid data =  29680  Valid Acc = 0.4540
+2025-06-14 19:41:53	[ 47]  Train data =  34900  Train Acc = 0.6998  Loss = 1.6947  Time = 20.79
+2025-06-14 19:41:58	[ 47]  Valid data =  29680  Valid Acc = 0.5019
+2025-06-14 19:42:20	[ 48]  Train data =  34900  Train Acc = 0.6924  Loss = 1.7022  Time = 21.47
+2025-06-14 19:42:24	[ 48]  Valid data =  29680  Valid Acc = 0.4882
+2025-06-14 19:42:46	[ 49]  Train data =  34900  Train Acc = 0.7072  Loss = 1.6842  Time = 21.75
+2025-06-14 19:42:52	[ 49]  Valid data =  29680  Valid Acc = 0.4638
+2025-06-14 19:43:14	[ 50]  Train data =  34900  Train Acc = 0.7030  Loss = 1.6845  Time = 22.88
+2025-06-14 19:43:20	[ 50]  Valid data =  29680  Valid Acc = 0.4907
+2025-06-14 19:43:40	[ 51]  Train data =  34900  Train Acc = 0.6936  Loss = 1.6899  Time = 20.45
+2025-06-14 19:43:46	[ 51]  Valid data =  29680  Valid Acc = 0.4741
+2025-06-14 19:44:09	[ 52]  Train data =  34900  Train Acc = 0.6913  Loss = 1.6911  Time = 22.78
+2025-06-14 19:44:14	[ 52]  Valid data =  29680  Valid Acc = 0.4796
+2025-06-14 19:44:35	[ 53]  Train data =  34900  Train Acc = 0.7047  Loss = 1.6699  Time = 21.86
+2025-06-14 19:44:40	[ 53]  Valid data =  29680  Valid Acc = 0.4691
+2025-06-14 19:45:02	[ 54]  Train data =  34900  Train Acc = 0.6983  Loss = 1.6754  Time = 21.67
+2025-06-14 19:45:07	[ 54]  Valid data =  29680  Valid Acc = 0.4690
+2025-06-14 19:45:30	[ 55]  Train data =  34900  Train Acc = 0.7097  Loss = 1.6587  Time = 23.28
+2025-06-14 19:45:36	[ 55]  Valid data =  29680  Valid Acc = 0.4547
+2025-06-14 19:45:58	[ 56]  Train data =  34900  Train Acc = 0.7091  Loss = 1.6545  Time = 21.91
+2025-06-14 19:46:03	[ 56]  Valid data =  29680  Valid Acc = 0.4793
+2025-06-14 19:46:24	[ 57]  Train data =  34900  Train Acc = 0.7177  Loss = 1.6424  Time = 21.31
+2025-06-14 19:46:30	[ 57]  Valid data =  29680  Valid Acc = 0.4678
+2025-06-14 19:46:52	[ 58]  Train data =  34900  Train Acc = 0.7114  Loss = 1.6458  Time = 22.26
+2025-06-14 19:46:57	[ 58]  Valid data =  29680  Valid Acc = 0.4757
+2025-06-14 19:47:20	[ 59]  Train data =  34900  Train Acc = 0.7160  Loss = 1.6376  Time = 22.64
+2025-06-14 19:47:26	[ 59]  Valid data =  29680  Valid Acc = 0.4505
+2025-06-14 19:47:48	[ 60]  Train data =  34900  Train Acc = 0.7196  Loss = 1.6291  Time = 22.51
+2025-06-14 19:47:54	[ 60]  Valid data =  29680  Valid Acc = 0.5144
+2025-06-14 19:48:17	[ 61]  Train data =  34900  Train Acc = 0.7215  Loss = 1.6227  Time = 23.68
+2025-06-14 19:48:23	[ 61]  Valid data =  29680  Valid Acc = 0.4391
+2025-06-14 19:48:45	[ 62]  Train data =  34900  Train Acc = 0.7187  Loss = 1.6190  Time = 22.43
+2025-06-14 19:48:51	[ 62]  Valid data =  29680  Valid Acc = 0.4914
+2025-06-14 19:49:14	[ 63]  Train data =  34900  Train Acc = 0.7227  Loss = 1.6148  Time = 22.74
+2025-06-14 19:49:19	[ 63]  Valid data =  29680  Valid Acc = 0.4025
+2025-06-14 19:49:41	[ 64]  Train data =  34900  Train Acc = 0.7294  Loss = 1.5996  Time = 22.33
+2025-06-14 19:49:47	[ 64]  Valid data =  29680  Valid Acc = 0.4856
+2025-06-14 19:50:09	[ 65]  Train data =  34900  Train Acc = 0.7298  Loss = 1.5924  Time = 22.62
+2025-06-14 19:50:15	[ 65]  Valid data =  29680  Valid Acc = 0.5036
+2025-06-14 19:50:37	[ 66]  Train data =  34900  Train Acc = 0.7189  Loss = 1.6001  Time = 21.87
+2025-06-14 19:50:42	[ 66]  Valid data =  29680  Valid Acc = 0.4997
+2025-06-14 19:51:04	[ 67]  Train data =  34900  Train Acc = 0.7255  Loss = 1.5896  Time = 21.83
+2025-06-14 19:51:09	[ 67]  Valid data =  29680  Valid Acc = 0.4720
+2025-06-14 19:51:29	[ 68]  Train data =  34900  Train Acc = 0.7234  Loss = 1.5863  Time = 19.56
+2025-06-14 19:51:34	[ 68]  Valid data =  29680  Valid Acc = 0.4751
+2025-06-14 19:51:55	[ 69]  Train data =  34900  Train Acc = 0.7424  Loss = 1.5594  Time = 21.38
+2025-06-14 19:52:00	[ 69]  Valid data =  29680  Valid Acc = 0.4424
+2025-06-14 19:52:22	[ 70]  Train data =  34900  Train Acc = 0.7442  Loss = 1.5512  Time = 21.66
+2025-06-14 19:52:27	[ 70]  Valid data =  29680  Valid Acc = 0.4961
+2025-06-14 19:52:51	[ 71]  Train data =  34900  Train Acc = 0.7396  Loss = 1.5525  Time = 23.21
+2025-06-14 19:52:56	[ 71]  Valid data =  29680  Valid Acc = 0.4628
+2025-06-14 19:53:19	[ 72]  Train data =  34900  Train Acc = 0.7402  Loss = 1.5457  Time = 23.04
+2025-06-14 19:53:24	[ 72]  Valid data =  29680  Valid Acc = 0.4634
+2025-06-14 19:53:46	[ 73]  Train data =  34900  Train Acc = 0.7343  Loss = 1.5486  Time = 21.26
+2025-06-14 19:53:51	[ 73]  Valid data =  29680  Valid Acc = 0.4918
+2025-06-14 19:54:13	[ 74]  Train data =  34900  Train Acc = 0.7474  Loss = 1.5242  Time = 21.65
+2025-06-14 19:54:18	[ 74]  Valid data =  29680  Valid Acc = 0.5280
+2025-06-14 19:54:39	[ 75]  Train data =  34900  Train Acc = 0.7346  Loss = 1.5359  Time = 20.73
+2025-06-14 19:54:44	[ 75]  Valid data =  29680  Valid Acc = 0.4617
+2025-06-14 19:55:07	[ 76]  Train data =  34900  Train Acc = 0.7483  Loss = 1.5144  Time = 22.96
+2025-06-14 19:55:13	[ 76]  Valid data =  29680  Valid Acc = 0.4489
+2025-06-14 19:55:35	[ 77]  Train data =  34900  Train Acc = 0.7425  Loss = 1.5116  Time = 22.80
+2025-06-14 19:55:40	[ 77]  Valid data =  29680  Valid Acc = 0.4653
+2025-06-14 19:56:03	[ 78]  Train data =  34900  Train Acc = 0.7540  Loss = 1.4943  Time = 22.25
+2025-06-14 19:56:08	[ 78]  Valid data =  29680  Valid Acc = 0.4920
+2025-06-14 19:56:30	[ 79]  Train data =  34900  Train Acc = 0.7470  Loss = 1.4968  Time = 21.54
+2025-06-14 19:56:35	[ 79]  Valid data =  29680  Valid Acc = 0.4558
+2025-06-14 19:56:58	[ 80]  Train data =  34900  Train Acc = 0.7450  Loss = 1.4878  Time = 23.08
+2025-06-14 19:57:03	[ 80]  Valid data =  29680  Valid Acc = 0.4888
+2025-06-14 19:57:26	[ 81]  Train data =  34900  Train Acc = 0.7457  Loss = 1.4871  Time = 23.29
+2025-06-14 19:57:32	[ 81]  Valid data =  29680  Valid Acc = 0.4160
+2025-06-14 19:57:55	[ 82]  Train data =  34900  Train Acc = 0.7540  Loss = 1.4689  Time = 23.28
+2025-06-14 19:58:01	[ 82]  Valid data =  29680  Valid Acc = 0.4988
+2025-06-14 19:58:22	[ 83]  Train data =  34900  Train Acc = 0.7519  Loss = 1.4594  Time = 20.85
+2025-06-14 19:58:28	[ 83]  Valid data =  29680  Valid Acc = 0.4726
+2025-06-14 19:58:51	[ 84]  Train data =  34900  Train Acc = 0.7579  Loss = 1.4477  Time = 22.82
+2025-06-14 19:58:56	[ 84]  Valid data =  29680  Valid Acc = 0.4991
+2025-06-14 19:59:18	[ 85]  Train data =  34900  Train Acc = 0.7480  Loss = 1.4540  Time = 22.43
+2025-06-14 19:59:24	[ 85]  Valid data =  29680  Valid Acc = 0.4678
+2025-06-14 19:59:48	[ 86]  Train data =  34900  Train Acc = 0.7489  Loss = 1.4442  Time = 23.89
+2025-06-14 19:59:53	[ 86]  Valid data =  29680  Valid Acc = 0.3709
+2025-06-14 20:00:15	[ 87]  Train data =  34900  Train Acc = 0.7511  Loss = 1.4333  Time = 22.57
+2025-06-14 20:00:21	[ 87]  Valid data =  29680  Valid Acc = 0.4544
+2025-06-14 20:00:42	[ 88]  Train data =  34900  Train Acc = 0.7538  Loss = 1.4238  Time = 21.31
+2025-06-14 20:00:47	[ 88]  Valid data =  29680  Valid Acc = 0.4631
+2025-06-14 20:01:10	[ 89]  Train data =  34900  Train Acc = 0.7347  Loss = 1.4451  Time = 22.83
+2025-06-14 20:01:15	[ 89]  Valid data =  29680  Valid Acc = 0.4600
+2025-06-14 20:01:39	[ 90]  Train data =  34900  Train Acc = 0.7646  Loss = 1.3921  Time = 23.37
+2025-06-14 20:01:44	[ 90]  Valid data =  29680  Valid Acc = 0.4719
+2025-06-14 20:02:05	[ 91]  Train data =  34900  Train Acc = 0.7628  Loss = 1.3925  Time = 21.33
+2025-06-14 20:02:11	[ 91]  Valid data =  29680  Valid Acc = 0.4552
+2025-06-14 20:02:31	[ 92]  Train data =  34900  Train Acc = 0.7620  Loss = 1.3851  Time = 20.23
+2025-06-14 20:02:36	[ 92]  Valid data =  29680  Valid Acc = 0.5342
+2025-06-14 20:02:55	[ 93]  Train data =  34900  Train Acc = 0.7773  Loss = 1.3557  Time = 18.28
+2025-06-14 20:03:00	[ 93]  Valid data =  29680  Valid Acc = 0.5079
+2025-06-14 20:03:23	[ 94]  Train data =  34900  Train Acc = 0.7778  Loss = 1.3484  Time = 22.92
+2025-06-14 20:03:29	[ 94]  Valid data =  29680  Valid Acc = 0.4850
+2025-06-14 20:03:52	[ 95]  Train data =  34900  Train Acc = 0.7653  Loss = 1.3557  Time = 23.28
+2025-06-14 20:03:57	[ 95]  Valid data =  29680  Valid Acc = 0.5010
+2025-06-14 20:04:20	[ 96]  Train data =  34900  Train Acc = 0.7706  Loss = 1.3412  Time = 23.08
+2025-06-14 20:04:25	[ 96]  Valid data =  29680  Valid Acc = 0.5100
+2025-06-14 20:04:44	[ 97]  Train data =  34900  Train Acc = 0.7679  Loss = 1.3383  Time = 18.91
+2025-06-14 20:04:49	[ 97]  Valid data =  29680  Valid Acc = 0.4577
+2025-06-14 20:05:11	[ 98]  Train data =  34900  Train Acc = 0.7787  Loss = 1.3190  Time = 21.77
+2025-06-14 20:05:16	[ 98]  Valid data =  29680  Valid Acc = 0.4578
+2025-06-14 20:05:39	[ 99]  Train data =  34900  Train Acc = 0.7682  Loss = 1.3222  Time = 22.73
+2025-06-14 20:05:45	[ 99]  Valid data =  29680  Valid Acc = 0.4018
+2025-06-14 20:06:08	[100]  Train data =  34900  Train Acc = 0.7727  Loss = 1.3081  Time = 22.79
+2025-06-14 20:06:13	[100]  Valid data =  29680  Valid Acc = 0.4991
+2025-06-14 20:06:33	[101]  Train data =  34900  Train Acc = 0.7727  Loss = 1.2974  Time = 19.95
+2025-06-14 20:06:38	[101]  Valid data =  29680  Valid Acc = 0.5133
+2025-06-14 20:07:01	[102]  Train data =  34900  Train Acc = 0.7812  Loss = 1.2804  Time = 22.22
+2025-06-14 20:07:07	[102]  Valid data =  29680  Valid Acc = 0.5187
+2025-06-14 20:07:27	[103]  Train data =  34900  Train Acc = 0.7725  Loss = 1.2860  Time = 20.44
+2025-06-14 20:07:33	[103]  Valid data =  29680  Valid Acc = 0.4945
+2025-06-14 20:07:54	[104]  Train data =  34900  Train Acc = 0.7871  Loss = 1.2555  Time = 21.51
+2025-06-14 20:07:59	[104]  Valid data =  29680  Valid Acc = 0.4927
+2025-06-14 20:08:22	[105]  Train data =  34900  Train Acc = 0.7731  Loss = 1.2655  Time = 22.31
+2025-06-14 20:08:27	[105]  Valid data =  29680  Valid Acc = 0.5238
+2025-06-14 20:08:50	[106]  Train data =  34900  Train Acc = 0.7850  Loss = 1.2422  Time = 22.70
+2025-06-14 20:08:55	[106]  Valid data =  29680  Valid Acc = 0.4288
+2025-06-14 20:09:18	[107]  Train data =  34900  Train Acc = 0.7885  Loss = 1.2290  Time = 22.53
+2025-06-14 20:09:24	[107]  Valid data =  29680  Valid Acc = 0.5338
+2025-06-14 20:09:47	[108]  Train data =  34900  Train Acc = 0.7799  Loss = 1.2379  Time = 22.64
+2025-06-14 20:09:52	[108]  Valid data =  29680  Valid Acc = 0.4944
+2025-06-14 20:10:12	[109]  Train data =  34900  Train Acc = 0.7846  Loss = 1.2231  Time = 20.20
+2025-06-14 20:10:18	[109]  Valid data =  29680  Valid Acc = 0.4207
+2025-06-14 20:10:40	[110]  Train data =  34900  Train Acc = 0.7676  Loss = 1.2390  Time = 22.24
+2025-06-14 20:10:45	[110]  Valid data =  29680  Valid Acc = 0.5219
+2025-06-14 20:11:07	[111]  Train data =  34900  Train Acc = 0.7867  Loss = 1.2003  Time = 21.85
+2025-06-14 20:11:13	[111]  Valid data =  29680  Valid Acc = 0.5195
+2025-06-14 20:11:33	[112]  Train data =  34900  Train Acc = 0.7815  Loss = 1.2037  Time = 19.77
+2025-06-14 20:11:38	[112]  Valid data =  29680  Valid Acc = 0.5032
+2025-06-14 20:12:00	[113]  Train data =  34900  Train Acc = 0.7819  Loss = 1.1951  Time = 22.11
+2025-06-14 20:12:06	[113]  Valid data =  29680  Valid Acc = 0.5263
+2025-06-14 20:12:28	[114]  Train data =  34900  Train Acc = 0.7849  Loss = 1.1828  Time = 22.19
+2025-06-14 20:12:34	[114]  Valid data =  29680  Valid Acc = 0.4924
+2025-06-14 20:12:54	[115]  Train data =  34900  Train Acc = 0.7976  Loss = 1.1550  Time = 20.61
+2025-06-14 20:13:00	[115]  Valid data =  29680  Valid Acc = 0.4837
+2025-06-14 20:13:18	[116]  Train data =  34900  Train Acc = 0.7953  Loss = 1.1481  Time = 18.74
+2025-06-14 20:13:24	[116]  Valid data =  29680  Valid Acc = 0.4660
+2025-06-14 20:13:46	[117]  Train data =  34900  Train Acc = 0.7847  Loss = 1.1572  Time = 21.36
+2025-06-14 20:13:51	[117]  Valid data =  29680  Valid Acc = 0.5288
+2025-06-14 20:14:14	[118]  Train data =  34900  Train Acc = 0.7906  Loss = 1.1410  Time = 22.95
+2025-06-14 20:14:19	[118]  Valid data =  29680  Valid Acc = 0.5345
+2025-06-14 20:14:42	[119]  Train data =  34900  Train Acc = 0.8034  Loss = 1.1137  Time = 22.95
+2025-06-14 20:14:48	[119]  Valid data =  29680  Valid Acc = 0.4652
+2025-06-14 20:15:10	[120]  Train data =  34900  Train Acc = 0.7941  Loss = 1.1207  Time = 22.63
+2025-06-14 20:15:16	[120]  Valid data =  29680  Valid Acc = 0.4867
+2025-06-14 20:15:37	[121]  Train data =  34900  Train Acc = 0.7954  Loss = 1.1117  Time = 20.72
+2025-06-14 20:15:42	[121]  Valid data =  29680  Valid Acc = 0.4480
+2025-06-14 20:16:03	[122]  Train data =  34900  Train Acc = 0.7993  Loss = 1.0965  Time = 21.00
+2025-06-14 20:16:09	[122]  Valid data =  29680  Valid Acc = 0.5282
+2025-06-14 20:16:31	[123]  Train data =  34900  Train Acc = 0.7988  Loss = 1.0926  Time = 21.82
+2025-06-14 20:16:36	[123]  Valid data =  29680  Valid Acc = 0.4750
+2025-06-14 20:16:57	[124]  Train data =  34900  Train Acc = 0.7927  Loss = 1.0929  Time = 21.00
+2025-06-14 20:17:03	[124]  Valid data =  29680  Valid Acc = 0.5236
+2025-06-14 20:17:23	[125]  Train data =  34900  Train Acc = 0.8023  Loss = 1.0705  Time = 19.67
+2025-06-14 20:17:28	[125]  Valid data =  29680  Valid Acc = 0.4907
+2025-06-14 20:17:50	[126]  Train data =  34900  Train Acc = 0.8003  Loss = 1.0635  Time = 21.79
+2025-06-14 20:17:56	[126]  Valid data =  29680  Valid Acc = 0.5314
+2025-06-14 20:18:16	[127]  Train data =  34900  Train Acc = 0.8112  Loss = 1.0449  Time = 20.52
+2025-06-14 20:18:21	[127]  Valid data =  29680  Valid Acc = 0.5329
+2025-06-14 20:18:44	[128]  Train data =  34900  Train Acc = 0.8199  Loss = 1.0201  Time = 22.42
+2025-06-14 20:18:49	[128]  Valid data =  29680  Valid Acc = 0.5216
+2025-06-14 20:19:12	[129]  Train data =  34900  Train Acc = 0.7973  Loss = 1.0507  Time = 22.68
+2025-06-14 20:19:17	[129]  Valid data =  29680  Valid Acc = 0.5019
+2025-06-14 20:19:38	[130]  Train data =  34900  Train Acc = 0.8023  Loss = 1.0371  Time = 20.78
+2025-06-14 20:19:43	[130]  Valid data =  29680  Valid Acc = 0.5136
+2025-06-14 20:20:05	[131]  Train data =  34900  Train Acc = 0.8077  Loss = 1.0209  Time = 22.26
+2025-06-14 20:20:10	[131]  Valid data =  29680  Valid Acc = 0.4962
+2025-06-14 20:20:32	[132]  Train data =  34900  Train Acc = 0.8099  Loss = 1.0101  Time = 21.63
+2025-06-14 20:20:36	[132]  Valid data =  29680  Valid Acc = 0.5385
+2025-06-14 20:20:58	[133]  Train data =  34900  Train Acc = 0.8082  Loss = 1.0056  Time = 22.14
+2025-06-14 20:21:04	[133]  Valid data =  29680  Valid Acc = 0.5256
+2025-06-14 20:21:26	[134]  Train data =  34900  Train Acc = 0.8081  Loss = 0.9959  Time = 21.88
+2025-06-14 20:21:31	[134]  Valid data =  29680  Valid Acc = 0.5403
+2025-06-14 20:21:53	[135]  Train data =  34900  Train Acc = 0.8139  Loss = 0.9776  Time = 21.91
+2025-06-14 20:21:58	[135]  Valid data =  29680  Valid Acc = 0.5265
+2025-06-14 20:22:20	[136]  Train data =  34900  Train Acc = 0.8128  Loss = 0.9742  Time = 22.19
+2025-06-14 20:22:26	[136]  Valid data =  29680  Valid Acc = 0.4993
+2025-06-14 20:22:47	[137]  Train data =  34900  Train Acc = 0.8090  Loss = 0.9787  Time = 21.32
+2025-06-14 20:22:52	[137]  Valid data =  29680  Valid Acc = 0.5254
+2025-06-14 20:23:12	[138]  Train data =  34900  Train Acc = 0.8157  Loss = 0.9583  Time = 19.63
+2025-06-14 20:23:17	[138]  Valid data =  29680  Valid Acc = 0.5259
+2025-06-14 20:23:40	[139]  Train data =  34900  Train Acc = 0.8223  Loss = 0.9411  Time = 22.47
+2025-06-14 20:23:45	[139]  Valid data =  29680  Valid Acc = 0.5322
+2025-06-14 20:24:08	[140]  Train data =  34900  Train Acc = 0.8203  Loss = 0.9386  Time = 22.43
+2025-06-14 20:24:13	[140]  Valid data =  29680  Valid Acc = 0.5263
+2025-06-14 20:24:36	[141]  Train data =  34900  Train Acc = 0.8240  Loss = 0.9224  Time = 22.75
+2025-06-14 20:24:42	[141]  Valid data =  29680  Valid Acc = 0.5408
+2025-06-14 20:25:03	[142]  Train data =  34900  Train Acc = 0.8146  Loss = 0.9319  Time = 21.29
+2025-06-14 20:25:09	[142]  Valid data =  29680  Valid Acc = 0.5147
+2025-06-14 20:25:30	[143]  Train data =  34900  Train Acc = 0.8202  Loss = 0.9177  Time = 21.72
+2025-06-14 20:25:36	[143]  Valid data =  29680  Valid Acc = 0.4840
+2025-06-14 20:25:58	[144]  Train data =  34900  Train Acc = 0.8207  Loss = 0.9088  Time = 22.49
+2025-06-14 20:26:04	[144]  Valid data =  29680  Valid Acc = 0.5363
+2025-06-14 20:26:27	[145]  Train data =  34900  Train Acc = 0.8272  Loss = 0.8936  Time = 22.96
+2025-06-14 20:26:32	[145]  Valid data =  29680  Valid Acc = 0.5152
+2025-06-14 20:26:55	[146]  Train data =  34900  Train Acc = 0.8173  Loss = 0.9015  Time = 23.14
+2025-06-14 20:27:01	[146]  Valid data =  29680  Valid Acc = 0.5465
+2025-06-14 20:27:23	[147]  Train data =  34900  Train Acc = 0.8238  Loss = 0.8925  Time = 22.89
+2025-06-14 20:27:28	[147]  Valid data =  29680  Valid Acc = 0.4828
+2025-06-14 20:27:49	[148]  Train data =  34900  Train Acc = 0.8229  Loss = 0.8785  Time = 21.29
+2025-06-14 20:27:54	[148]  Valid data =  29680  Valid Acc = 0.5400
+2025-06-14 20:28:17	[149]  Train data =  34900  Train Acc = 0.8335  Loss = 0.8623  Time = 22.38
+2025-06-14 20:28:22	[149]  Valid data =  29680  Valid Acc = 0.5379
+2025-06-14 20:28:45	[150]  Train data =  34900  Train Acc = 0.8371  Loss = 0.8410  Time = 23.22
+2025-06-14 20:28:51	[150]  Valid data =  29680  Valid Acc = 0.5315
+2025-06-14 20:29:13	[151]  Train data =  34900  Train Acc = 0.8305  Loss = 0.8512  Time = 22.10
+2025-06-14 20:29:18	[151]  Valid data =  29680  Valid Acc = 0.5364
+2025-06-14 20:29:35	[152]  Train data =  34900  Train Acc = 0.8279  Loss = 0.8495  Time = 17.57
+2025-06-14 20:29:41	[152]  Valid data =  29680  Valid Acc = 0.5301
+2025-06-14 20:30:04	[153]  Train data =  34900  Train Acc = 0.8291  Loss = 0.8432  Time = 23.51
+2025-06-14 20:30:10	[153]  Valid data =  29680  Valid Acc = 0.5120
+2025-06-14 20:30:33	[154]  Train data =  34900  Train Acc = 0.8360  Loss = 0.8280  Time = 22.80
+2025-06-14 20:30:39	[154]  Valid data =  29680  Valid Acc = 0.5489
+2025-06-14 20:31:02	[155]  Train data =  34900  Train Acc = 0.8418  Loss = 0.8097  Time = 23.28
+2025-06-14 20:31:08	[155]  Valid data =  29680  Valid Acc = 0.5508
+2025-06-14 20:31:30	[156]  Train data =  34900  Train Acc = 0.8360  Loss = 0.8130  Time = 22.80
+2025-06-14 20:31:36	[156]  Valid data =  29680  Valid Acc = 0.5490
+2025-06-14 20:31:59	[157]  Train data =  34900  Train Acc = 0.8252  Loss = 0.8251  Time = 23.42
+2025-06-14 20:32:05	[157]  Valid data =  29680  Valid Acc = 0.5033
+2025-06-14 20:32:26	[158]  Train data =  34900  Train Acc = 0.8391  Loss = 0.7967  Time = 21.58
+2025-06-14 20:32:32	[158]  Valid data =  29680  Valid Acc = 0.5223
+2025-06-14 20:32:54	[159]  Train data =  34900  Train Acc = 0.8363  Loss = 0.7984  Time = 22.26
+2025-06-14 20:32:59	[159]  Valid data =  29680  Valid Acc = 0.5344
+2025-06-14 20:33:20	[160]  Train data =  34900  Train Acc = 0.8298  Loss = 0.8038  Time = 20.66
+2025-06-14 20:33:25	[160]  Valid data =  29680  Valid Acc = 0.5038
+2025-06-14 20:33:47	[161]  Train data =  34900  Train Acc = 0.8313  Loss = 0.7965  Time = 21.94
+2025-06-14 20:33:52	[161]  Valid data =  29680  Valid Acc = 0.5556
+2025-06-14 20:34:15	[162]  Train data =  34900  Train Acc = 0.8438  Loss = 0.7664  Time = 22.41
+2025-06-14 20:34:20	[162]  Valid data =  29680  Valid Acc = 0.5184
+2025-06-14 20:34:42	[163]  Train data =  34900  Train Acc = 0.8347  Loss = 0.7824  Time = 22.41
+2025-06-14 20:34:48	[163]  Valid data =  29680  Valid Acc = 0.5471
+2025-06-14 20:35:10	[164]  Train data =  34900  Train Acc = 0.8428  Loss = 0.7566  Time = 22.29
+2025-06-14 20:35:15	[164]  Valid data =  29680  Valid Acc = 0.5079
+2025-06-14 20:35:37	[165]  Train data =  34900  Train Acc = 0.8420  Loss = 0.7574  Time = 22.46
+2025-06-14 20:35:42	[165]  Valid data =  29680  Valid Acc = 0.5226
+2025-06-14 20:36:04	[166]  Train data =  34900  Train Acc = 0.8491  Loss = 0.7418  Time = 22.00
+2025-06-14 20:36:09	[166]  Valid data =  29680  Valid Acc = 0.5312
+2025-06-14 20:36:28	[167]  Train data =  34900  Train Acc = 0.8347  Loss = 0.7584  Time = 18.65
+2025-06-14 20:36:33	[167]  Valid data =  29680  Valid Acc = 0.5542
+2025-06-14 20:36:53	[168]  Train data =  34900  Train Acc = 0.8506  Loss = 0.7236  Time = 19.71
+2025-06-14 20:36:57	[168]  Valid data =  29680  Valid Acc = 0.5477
+2025-06-14 20:37:20	[169]  Train data =  34900  Train Acc = 0.8385  Loss = 0.7460  Time = 22.38
+2025-06-14 20:37:25	[169]  Valid data =  29680  Valid Acc = 0.5513
+2025-06-14 20:37:48	[170]  Train data =  34900  Train Acc = 0.8613  Loss = 0.6946  Time = 22.74
+2025-06-14 20:37:53	[170]  Valid data =  29680  Valid Acc = 0.5470
+2025-06-14 20:38:15	[171]  Train data =  34900  Train Acc = 0.8529  Loss = 0.7032  Time = 21.62
+2025-06-14 20:38:20	[171]  Valid data =  29680  Valid Acc = 0.5500
+2025-06-14 20:38:42	[172]  Train data =  34900  Train Acc = 0.8396  Loss = 0.7258  Time = 22.03
+2025-06-14 20:38:48	[172]  Valid data =  29680  Valid Acc = 0.5553
+2025-06-14 20:39:07	[173]  Train data =  34900  Train Acc = 0.8480  Loss = 0.7081  Time = 19.20
+2025-06-14 20:39:13	[173]  Valid data =  29680  Valid Acc = 0.5560
+2025-06-14 20:39:33	[174]  Train data =  34900  Train Acc = 0.8477  Loss = 0.7033  Time = 20.02
+2025-06-14 20:39:38	[174]  Valid data =  29680  Valid Acc = 0.5530
+2025-06-14 20:39:57	[175]  Train data =  34900  Train Acc = 0.8448  Loss = 0.7060  Time = 19.33
+2025-06-14 20:40:02	[175]  Valid data =  29680  Valid Acc = 0.5583
+2025-06-14 20:40:25	[176]  Train data =  34900  Train Acc = 0.8502  Loss = 0.6870  Time = 22.73
+2025-06-14 20:40:30	[176]  Valid data =  29680  Valid Acc = 0.5544
+2025-06-14 20:40:53	[177]  Train data =  34900  Train Acc = 0.8660  Loss = 0.6557  Time = 22.77
+2025-06-14 20:40:58	[177]  Valid data =  29680  Valid Acc = 0.5560
+2025-06-14 20:41:20	[178]  Train data =  34900  Train Acc = 0.8583  Loss = 0.6663  Time = 21.97
+2025-06-14 20:41:26	[178]  Valid data =  29680  Valid Acc = 0.5544
+2025-06-14 20:41:45	[179]  Train data =  34900  Train Acc = 0.8549  Loss = 0.6679  Time = 18.84
+2025-06-14 20:41:49	[179]  Valid data =  29680  Valid Acc = 0.5615
+2025-06-14 20:42:11	[180]  Train data =  34900  Train Acc = 0.8496  Loss = 0.6728  Time = 21.88
+2025-06-14 20:42:16	[180]  Valid data =  29680  Valid Acc = 0.5654
+2025-06-14 20:42:37	[181]  Train data =  34900  Train Acc = 0.8526  Loss = 0.6629  Time = 21.21
+2025-06-14 20:42:42	[181]  Valid data =  29680  Valid Acc = 0.5613
+2025-06-14 20:43:05	[182]  Train data =  34900  Train Acc = 0.8565  Loss = 0.6509  Time = 22.79
+2025-06-14 20:43:10	[182]  Valid data =  29680  Valid Acc = 0.5620
+2025-06-14 20:43:32	[183]  Train data =  34900  Train Acc = 0.8584  Loss = 0.6473  Time = 21.87
+2025-06-14 20:43:37	[183]  Valid data =  29680  Valid Acc = 0.5614
+2025-06-14 20:44:00	[184]  Train data =  34900  Train Acc = 0.8614  Loss = 0.6330  Time = 22.95
+2025-06-14 20:44:06	[184]  Valid data =  29680  Valid Acc = 0.5568
+2025-06-14 20:44:28	[185]  Train data =  34900  Train Acc = 0.8574  Loss = 0.6390  Time = 22.48
+2025-06-14 20:44:34	[185]  Valid data =  29680  Valid Acc = 0.5645
+2025-06-14 20:44:56	[186]  Train data =  34900  Train Acc = 0.8654  Loss = 0.6171  Time = 22.51
+2025-06-14 20:45:02	[186]  Valid data =  29680  Valid Acc = 0.5588
+2025-06-14 20:45:24	[187]  Train data =  34900  Train Acc = 0.8511  Loss = 0.6466  Time = 21.98
+2025-06-14 20:45:29	[187]  Valid data =  29680  Valid Acc = 0.5565
+2025-06-14 20:45:52	[188]  Train data =  34900  Train Acc = 0.8566  Loss = 0.6296  Time = 23.03
+2025-06-14 20:45:58	[188]  Valid data =  29680  Valid Acc = 0.5584
+2025-06-14 20:46:19	[189]  Train data =  34900  Train Acc = 0.8660  Loss = 0.6065  Time = 21.69
+2025-06-14 20:46:25	[189]  Valid data =  29680  Valid Acc = 0.5605
+2025-06-14 20:46:46	[190]  Train data =  34900  Train Acc = 0.8559  Loss = 0.6231  Time = 21.02
+2025-06-14 20:46:52	[190]  Valid data =  29680  Valid Acc = 0.5626
+2025-06-14 20:47:13	[191]  Train data =  34900  Train Acc = 0.8592  Loss = 0.6151  Time = 21.30
+2025-06-14 20:47:18	[191]  Valid data =  29680  Valid Acc = 0.5557
+2025-06-14 20:47:40	[192]  Train data =  34900  Train Acc = 0.8593  Loss = 0.6094  Time = 22.09
+2025-06-14 20:47:45	[192]  Valid data =  29680  Valid Acc = 0.5607
+2025-06-14 20:48:07	[193]  Train data =  34900  Train Acc = 0.8673  Loss = 0.5927  Time = 21.42
+2025-06-14 20:48:12	[193]  Valid data =  29680  Valid Acc = 0.5609
+2025-06-14 20:48:34	[194]  Train data =  34900  Train Acc = 0.8660  Loss = 0.5895  Time = 22.25
+2025-06-14 20:48:39	[194]  Valid data =  29680  Valid Acc = 0.5577
+2025-06-14 20:49:01	[195]  Train data =  34900  Train Acc = 0.8637  Loss = 0.5913  Time = 21.35
+2025-06-14 20:49:06	[195]  Valid data =  29680  Valid Acc = 0.5616
+2025-06-14 20:49:27	[196]  Train data =  34900  Train Acc = 0.8635  Loss = 0.5909  Time = 20.44
+2025-06-14 20:49:32	[196]  Valid data =  29680  Valid Acc = 0.5599
+2025-06-14 20:49:53	[197]  Train data =  34900  Train Acc = 0.8659  Loss = 0.5767  Time = 20.89
+2025-06-14 20:49:57	[197]  Valid data =  29680  Valid Acc = 0.5616
+2025-06-14 20:50:19	[198]  Train data =  34900  Train Acc = 0.8665  Loss = 0.5738  Time = 21.81
+2025-06-14 20:50:25	[198]  Valid data =  29680  Valid Acc = 0.5636
+2025-06-14 20:50:47	[199]  Train data =  34900  Train Acc = 0.8723  Loss = 0.5612  Time = 22.39
+2025-06-14 20:50:52	[199]  Valid data =  29680  Valid Acc = 0.5620
+2025-06-14 20:51:13	[200]  Train data =  34900  Train Acc = 0.8589  Loss = 0.5890  Time = 20.40
+2025-06-14 20:51:18	[200]  Valid data =  29680  Valid Acc = 0.5622
+2025-06-14 20:51:18	Best Valid Acc = 0.5654
+2025-06-14 20:51:18	Total Training Time: 5424.67
+2025-06-14 20:51:29	Best Valid Acc = 0.5654 and Final Test Acc = 0.5654
